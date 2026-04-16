@@ -2,3 +2,4 @@ streamlit
 moviepy
 telethon
 Pillow
+piexif
