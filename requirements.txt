@@ -5,4 +5,4 @@ piexif
 telethon
 pandas
 requests
-opencv-python
+opencv-pytho
