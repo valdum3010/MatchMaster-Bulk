@@ -1,5 +1,8 @@
 streamlit
 moviepy
-telethon
 Pillow
 piexif
+telethon
+pandas
+requests
+opencv-python
