@@ -9,6 +9,9 @@ import piexif
 from datetime import datetime, timedelta
 import tempfile
 from moviepy.editor import VideoFileClip, vfx
+import PIL.Image
+if not hasattr(PIL.Image, 'ANTIALIAS'):
+    PIL.Image.ANTIALIAS = PIL.Image.Resampling.LANCZOS
 
 st.set_page_config(page_title="MatchMaster Stealth Bulk", page_icon="🚀")
 
