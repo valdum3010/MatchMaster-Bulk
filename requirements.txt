@@ -1,4 +1,4 @@
 streamlit
-Pillow
-piexif
 moviepy
+Pillow==9.5.0
+telethon
